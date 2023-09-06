@@ -11,13 +11,13 @@ _Android Developer based in Malaysia 🇲🇾_ <br>
 ## 👨‍💻 Work Experience
 
 **Android Developer** @ [WAHDAH TECHNOLOGIES](https://www.wahdah.my/en/) _(Aug 2021 - Present)_ <br>
-I am responsible for the development of [DRIVE](https://play.google.com/store/apps/details?id=com.wahdah.drive), an application by WAHDAH that serves as a fleet management tool and handles rental bookings, functioning as a SuperApp for the WAHDAH platform. My role also entails overseeing distribution and maintenance on the Android `Kotlin` platform.
+I am responsible for the development of [DRIVE](https://play.google.com/store/apps/details?id=com.wahdah.drive), an application by WAHDAH that serves as a fleet management tool and handles rental bookings, functioning as a SuperApp for the WAHDAH platform. My role also entails overseeing distribution and maintenance on the Android (Kotlin) platform.
 - **_Tech Stack:_** Android Studio, Kotlin, Firebase, REST API, Postman, Retrofit, GIT.
 
 _Previous project I have worked on:_
 - QalbyApp – _Islamic Lifestyle app_
 - Hotel Zamburger – _Hotel booking app_
-- WAHDAH Associate Partner `Xamarin` – _Previous iteration of DRIVE_
+- WAHDAH Associate Partner (Xamarin) – _Previous iteration of DRIVE_
 <br><br>
 
 **Web Developer** @ [WAHDAH TECHNOLOGIES](https://www.wahdah.my/en/) _(Feb 2020 - Aug 2021)_ <br>
