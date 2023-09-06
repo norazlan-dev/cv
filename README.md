@@ -11,31 +11,31 @@ _Android Developer based in Malaysia 🇲🇾_ <br>
 ## 👨‍💻 Work Experience
 
 **Android Developer** @ [WAHDAH TECHNOLOGIES](https://www.wahdah.my/en/) _(Aug 2021 - Present)_ <br>
-I am responsible for the development of [DRIVE](https://play.google.com/store/apps/details?id=com.wahdah.drive), an application by WAHDAH that serves as a fleet management tool and handles rental bookings, functioning as a SuperApp for the WAHDAH platform. My role also entails overseeing distribution and maintenance on the Android (Kotlin) platform.
+I am responsible for the development of [DRIVE](https://play.google.com/store/apps/details?id=com.wahdah.drive), an application by WAHDAH that serves as a fleet management tool and handles rental bookings, functioning as a SuperApp for the WAHDAH platform. My role also entails overseeing distribution and maintenance on the Android `Kotlin` platform.
 - **_Tech Stack:_** Android Studio, Kotlin, Firebase, REST API, Postman, Retrofit, GIT.
 
 _Previous project I have worked on:_
-- QalbyApp – Islamic Lifestyle app
-- Hotel Zamburger – Hotel booking app
-- WAHDAH Associate Partner (Xamarin)
+- QalbyApp – _Islamic Lifestyle app_
+- Hotel Zamburger – _Hotel booking app_
+- WAHDAH Associate Partner `Xamarin` – _Previous iteration of DRIVE_
 <br><br>
 
 **Web Developer** @ [WAHDAH TECHNOLOGIES](https://www.wahdah.my/en/) _(Feb 2020 - Aug 2021)_ <br>
-I am a web developer working with CakePHP as the web development framework. I manage various projects acquired from clients through AIST subsidiary of WAHDAH Technologies, developing website that align with diverse client requirements. Example of such projects were:
+I am a web developer working with `CakePHP` as the web development framework. I manage various projects acquired from clients through AIST subsidiary of WAHDAH Technologies, developing website that align with diverse client requirements. Example of such projects were:
 - MySmartOH – Online Occupational Health Software
-- Zetpy – Platform for managing online stores
-- OurFarm – Now known as airasia Grocer
-- HiHome – Site for buying and managing property
+- Zetpy – _Platform for managing online stores_
+- OurFarm – _Now known as airasia Grocer_
+- HiHome – _Site for buying and managing property_
 <br><br>
 
 ## 👩🏼‍🎓 Education
 
 **Bachelor of Computer Science (Hons)**<br>
-[UITM KAMPUS JASIN](https://melaka.uitm.edu.my/index.php/en/kjm-campus) - Melaka, Malaysia _(Nov 2017 - March 2020)_ 
+[UiTM Kampus Jasin](https://melaka.uitm.edu.my/index.php/en/kjm-campus) - Melaka, Malaysia _(Nov 2017 - March 2020)_ 
 <br>
 
 **Diploma in Computer Science**<br>
-[UITM KAMPUS JASIN](https://melaka.uitm.edu.my/index.php/en/kjm-campus) - Melaka, Malaysia _(June 2015 - Oct 2017)_ 
+[UiTM Kampus Jasin](https://melaka.uitm.edu.my/index.php/en/kjm-campus) - Melaka, Malaysia _(June 2015 - Oct 2017)_ 
 <br><br>
 
 ## 💬 Languages
