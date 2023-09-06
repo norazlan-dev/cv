@@ -7,7 +7,7 @@ _Android Developer based in Malaysia 🇲🇾_ <br>
 ## 🤙 About Me
 
 > “Experienced Android Developer with a strong proficiency in Kotlin, Java and a track record of creating efficient, user-friendly mobile applications. Over 3 years of hands-on experience in developing and maintaining Android applications and a collaborative team player, excels in group dynamics with open communication.”
-<br><br>
+<br>
 
 ## 👨‍💻 Work Experience
 
