@@ -9,6 +9,9 @@ _Android Developer based in Malaysia 🇲🇾_ <br>
 > “Experienced Android Developer with a strong proficiency in Kotlin, Java and a track record of creating efficient, user-friendly mobile applications. Over 3 years of hands-on experience in developing and maintaining Android applications and a collaborative team player, excels in group dynamics with open communication.”
 <br>
 
+[![Product Name Screen Shot][product-screenshot]](https://example.com) [![Product Name Screen Shot][product-screenshot]](https://example.com) [![Product Name Screen Shot][product-screenshot]](https://example.com)
+<br><br>
+
 ## 👨‍💻 Work Experience
 
 **Android Developer** @ [WAHDAH TECHNOLOGIES](https://www.wahdah.my/en/) _(Aug 2021 - Present)_ <br>
@@ -44,3 +47,5 @@ I am a web developer working with `CakePHP` as the web development framework. I 
 🇲🇾 **Malay**: Native <br>
 🇬🇧 **English**: B2
 <br><br>
+
+[product-screenshot]: https://www.w3schools.com/images/img_certification_down_generic_300.png
