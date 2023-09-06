@@ -44,8 +44,3 @@ I am a web developer working with `CakePHP` as the web development framework. I 
 🇲🇾 **Malay**: Native <br>
 🇬🇧 **English**: B2
 <br><br>
-
-## 🔗 References
-
-_**Wouldn't you like to know?**_
-<br><br>
