@@ -4,19 +4,18 @@ _Android Developer based in Malaysia 🇲🇾_ <br>
 
 [Email](mailto:mohdnorazlan.yasin@gmail.com) / [LinkedIn](https://www.linkedin.com/in/norazlan-dev/) / [GitHub](https://github.com/norazlan-dev/)
 
+[![Product Name Screen Shot][product-screenshot]](https://campus.w3schools.com/)
+
 ## 🤙 About Me
 
-> “Experienced Android Developer with a strong proficiency in Kotlin, Java and a track record of creating efficient, user-friendly mobile applications. Over 3 years of hands-on experience in developing and maintaining Android applications and a collaborative team player, excels in group dynamics with open communication.”
-<br>
-
-[![Product Name Screen Shot][product-screenshot]](https://campus.w3schools.com/)
+An Android Developer with a strong proficiency in Kotlin, Java and a track record of creating efficient, user-friendly mobile applications. Over 3 years of hands-on experience in developing and maintaining Android applications and a collaborative team player, excels in group dynamics with open communication.
 <br><br>
 
 ## 👨‍💻 Work Experience
 
 **Android Developer** @ [WAHDAH TECHNOLOGIES](https://www.wahdah.my/en/) _(Aug 2021 - Present)_ <br>
 I am responsible for the development of [DRIVE](https://play.google.com/store/apps/details?id=com.wahdah.drive), an application by WAHDAH that serves as a fleet management tool and handles rental bookings, functioning as a SuperApp for the WAHDAH platform. My role also entails overseeing distribution and maintenance on the Android (Kotlin) platform.
-- **_Tech Stack:_** Android Studio, Kotlin, Firebase, REST API, Postman, Retrofit, GIT.
+- **Tech Stack:** Android Studio, Kotlin, Firebase, REST API, Postman, Retrofit, GIT.
 
 _Previous project I have worked on:_
 - QalbyApp – _Islamic Lifestyle app_
