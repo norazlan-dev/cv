@@ -4,8 +4,6 @@ _Android Developer based in Malaysia 🇲🇾_ <br>
 
 [Email](mailto:mohdnorazlan.yasin@gmail.com) / [LinkedIn](https://www.linkedin.com/in/norazlan-dev/) / [GitHub](https://github.com/norazlan-dev/)
 
-[![Product Name Screen Shot][product-screenshot]](https://campus.w3schools.com/)
-
 ## 🤙 About Me
 
 An Android Developer with a strong proficiency in Kotlin, Java and a track record of creating efficient, user-friendly mobile applications. Over 3 years of hands-on experience in developing and maintaining Android applications and a collaborative team player, excels in group dynamics with open communication.
@@ -31,7 +29,7 @@ I am a web developer working with `CakePHP` as the web development framework. I 
 - HiHome – _Site for buying and managing property_
 <br><br>
 
-## 👩🏼‍🎓 Education
+## 👨‍🎓 Education
 
 **Bachelor of Computer Science (Hons)**<br>
 [UiTM Kampus Jasin](https://melaka.uitm.edu.my/index.php/en/kjm-campus) - Melaka, Malaysia _(Nov 2017 - March 2020)_ 
