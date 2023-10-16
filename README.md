@@ -23,7 +23,7 @@ _Previous project I have worked on:_
 
 **Web Developer** @ [WAHDAH TECHNOLOGIES](https://www.wahdah.my/en/) _(Feb 2020 - Aug 2021)_ <br>
 I am a web developer working with `CakePHP` as the web development framework. I manage various projects acquired from clients through AIST subsidiary of WAHDAH Technologies, developing website that align with diverse client requirements. Example of such projects were:
-- MySmartOH – Online Occupational Health Software
+- MySmartOH – _Online Occupational Health Software_
 - Zetpy – _Platform for managing online stores_
 - OurFarm – _Now known as airasia Grocer_
 - HiHome – _Site for buying and managing property_
