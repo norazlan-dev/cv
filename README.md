@@ -32,11 +32,11 @@ I am a web developer working with `CakePHP` as the web development framework. I 
 ## 👨‍🎓 Education
 
 **Bachelor of Computer Science (Hons)**<br>
-[UiTM Kampus Jasin](https://melaka.uitm.edu.my/index.php/en/kjm-campus) - Melaka, Malaysia _(Nov 2017 - March 2020)_ 
+[UiTM Kampus Jasin](https://melaka.uitm.edu.my/index.php/en/kjm-campus) - Melaka, Malaysia _(March 2017 - July 2020)_ 
 <br>
 
 **Diploma in Computer Science**<br>
-[UiTM Kampus Jasin](https://melaka.uitm.edu.my/index.php/en/kjm-campus) - Melaka, Malaysia _(June 2015 - Oct 2017)_ 
+[UiTM Kampus Jasin](https://melaka.uitm.edu.my/index.php/en/kjm-campus) - Melaka, Malaysia _(June 2015 - Feb 2017)_ 
 <br><br>
 
 ## 💬 Languages
