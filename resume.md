@@ -26,8 +26,8 @@ I am leading the development of the **New Valuation Information System (NVIS)**,
 
 ---
 
-### Android Developer @ [Wahdah Technologies](https://www.wahdah.my/en/)  
-_Aug 2021 – Dec 2023_  
+### Android/Web Developer @ [Wahdah Technologies](https://www.wahdah.my/en/)  
+_Aug 2020 – Dec 2023_  
 I was responsible for building and maintaining the **[DRIVE](https://play.google.com/store/apps/details?id=com.wahdah.drive)** application, a comprehensive fleet management tools for rental booking within the WAHDAH platform. DRIVE functions as a SuperApp, simplifying rental processes for Wahdah Partners while enhancing fleet management operations.
 
 - **Key Responsibilities**:
@@ -41,16 +41,16 @@ I was responsible for building and maintaining the **[DRIVE](https://play.google
   - **QalbyApp**: An Islamic lifestyle application.
   - **Hotel Zamburger**: A hotel booking app.
   - **WAHDAH Associate Partner (Xamarin)**: A previous version of DRIVE tailored for WAHDAH’s partner network.
+  - **MySmartOH**: Online Occupational Health management software.
+  - **Zetpy**: A platform for managing multiple online stores.
 
 ---
 
 ### Web Developer @ [Wahdah Technologies](https://www.wahdah.my/en/)  
-_Feb 2020 – Aug 2021_  
+_Feb 2020 – Aug 2020_  
 In this role, I utilized **CakePHP** to develop dynamic, client-driven web projects under WAHDAH Technologies' subsidiary, **AIST**. I collaborated with diverse stakeholders to build web solutions that addressed their unique needs.
 
 - **Key Projects**:
-  - **MySmartOH**: Online Occupational Health management software.
-  - **Zetpy**: A platform for managing multiple online stores.
   - **OurFarm**: A marketplace platform, now rebranded as **airasia Grocer**.
   - **HiHome**: A real estate management and buying platform.
 
