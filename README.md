@@ -11,7 +11,12 @@ An Android Developer with a strong proficiency in Kotlin, Java and a track recor
 
 ## 👨‍💻 Work Experience
 
-**Android Developer** @ [WAHDAH TECHNOLOGIES](https://www.wahdah.my/en/) _(Aug 2021 - Present)_ <br>
+**Android Developer** @ [SAPURA SECURED TECHNOLOGIES](https://www.sapuratech.com.my/) _(Dec 2023 - Present)_ <br>
+I’m developing an Android application called "New Valuation Information System" (NVIS) to replace the existing "Valuation Information System" (VIS) in collaboration with Sapura for JPPH. JPPH provides valuation services and advice to the Federal Government, State Government, Statutory Bodies, and Local Authorities in Malaysia. NVIS is designed for JPPH officers to use during the Site Visit stage of property valuations. The application integrates IBM MobileFirst for LDAP authentication and API management, and it utilizes Room and Hilt for managing the local database, ensuring offline functionality during periods without internet access.
+- **Tech Stack:** Android Studio, Java, Room, Hilt, Springboot, IBM MobileFirst, REST API, Postman, GIT.
+<br><br>
+
+**Android Developer** @ [WAHDAH TECHNOLOGIES](https://www.wahdah.my/en/) _(Aug 2021 - Dec 2023)_ <br>
 I am responsible for the development of [DRIVE](https://play.google.com/store/apps/details?id=com.wahdah.drive), an application by WAHDAH that serves as a fleet management tool and handles rental bookings, functioning as a SuperApp for the WAHDAH platform. My role also entails overseeing distribution and maintenance on the Android (Kotlin) platform.
 - **Tech Stack:** Android Studio, Kotlin, Firebase, REST API, Postman, Retrofit, GIT.
 
