@@ -27,7 +27,7 @@ I have successfully led the development of mission-critical mobile applications 
 - **Key Technologies**: Android Studio, Java, Room, Hilt, Springboot, IBM MobileFirst, REST API, Postman, GIT.
 
 **Key Accomplishments**:
-- Successfully rolled out NVIS to JPPH field officers, significantly improving the speed and accuracy of property evaluations.
+- Rolled out NVIS to JPPH field officers, improving the speed and accuracy of property evaluations.
 - Enhanced app performance and data reliability in low-connectivity settings by designing robust offline mechanisms.
 
 ---
@@ -83,7 +83,7 @@ I have successfully led the development of mission-critical mobile applications 
 - Developed a **fleet management SuperApp (DRIVE)**, serving as a key tool for WAHDAH Partners.
 - Successfully deployed the **DRIVE** application to the **Google Play Store**, ensuring smooth updates and performance optimization for WAHDAH Partners.
 - Developed the **NVIS Site Visit** for JPPH, improving the efficiency of property valuations across Malaysia.
-- Successfully imlement **offline functionality** in NVIS, enabling reliable app usage in areas with low network connectivity.
+- Successfully implement **offline functionality** in NVIS, enabling reliable app usage in areas with low network connectivity.
 - Collaborated on **MySmartOH**, a health management system now used across various sectors for occupational health monitoring.
 
 ---
