@@ -6,9 +6,7 @@ Based in Malaysia 🇲🇾
 ---
 
 ### 👋 **About Me**  
-I am an Android Developer with over 4 years of experience specializing in Kotlin and Java. My expertise lies in designing and building efficient, user-friendly mobile applications. I am passionate about delivering innovative solutions and thrive in collaborative, team-based environments. My work emphasizes the importance of seamless user experiences, optimized app performance, and secure data handling, particularly in enterprise environments.
-
-I have successfully led the development of mission-critical mobile applications in industries ranging from property valuation to fleet management. My experience also extends to web development, where I contributed to dynamic client-driven projects. With a strong foundation in mobile development and cross-functional collaboration, I continuously seek new challenges and opportunities for growth.
+I am an Android Developer with over 4 years of experience specializing in Kotlin and Java. My expertise lies in designing and building efficient, user-friendly mobile applications. I am passionate about delivering innovative solutions and thrive in collaborative, team-based environments but I am equally capable of working independently when needed. My work emphasizes the importance of seamless user experiences, optimized app performance particularly in enterprise environments.
 
 ---
 
@@ -32,13 +30,13 @@ I have successfully led the development of mission-critical mobile applications 
 
 ---
 
-**Android Developer**  
+**Android/Web Developer**  
 *Wahdah Technologies*  
-*Aug 2021 – Dec 2023*  
+*Aug 2020 – Dec 2023*  
 
-- Led the development of the **DRIVE application**, a comprehensive fleet management and rental booking tool for WAHDAH’s platform.
+- Lead developer for **Wahdah DRIVE** application, a comprehensive fleet management and rental booking tool for WAHDAH’s platform.
 - Developed and maintained the Android app, focusing on fleet management, partner operations, and booking functionalities.
-- Worked closely with cross-functional teams, including designers, testers, and project managers, to ensure timely feature updates and bug fixes.
+- Worked closely with cross-functional teams, including web developer, designers, testers, and project managers, to ensure timely feature updates and bug fixes.
 - Optimized app performance, managed app releases, and monitored analytics to ensure high user satisfaction.
 - **Key Technologies**: Android Studio, Kotlin, Firebase, REST API, Retrofit, Postman, GIT.
 
@@ -46,12 +44,14 @@ I have successfully led the development of mission-critical mobile applications 
 - **QalbyApp**: Contributed to the development of an Islamic lifestyle application, focusing on enhancing the user experience and app performance.
 - **Hotel Zamburger**: Created a user-friendly hotel booking app, collaborating with backend teams to ensure smooth integration with booking APIs.
 - **WAHDAH Associate Partner (Xamarin)**: Managed updates to the earlier version of the DRIVE app built on Xamarin, ensuring partner needs were met.
+- **MySmartOH**: Developed an online occupational health management system.
+- **Zetpy**: Built a platform to help users manage multiple online stores.
 
 ---
 
-**Web Developer**  
+**Internship**  
 *Wahdah Technologies*  
-*Feb 2020 – Aug 2021*  
+*Feb 2020 – Aug 2020*  
 
 - Developed dynamic web applications for various clients under WAHDAH Technologies' subsidiary, AIST, using **CakePHP**.
 - Designed, implemented, and maintained client-driven web projects that met stakeholder requirements.
@@ -59,8 +59,6 @@ I have successfully led the development of mission-critical mobile applications 
 - **Key Technologies**: CakePHP, MySQL, JavaScript, HTML, CSS.
 
 **Key Projects**:
-- **MySmartOH**: Developed an online occupational health management system.
-- **Zetpy**: Built a platform to help users manage multiple online stores.
 - **OurFarm**: Developed a marketplace for local farmers, later rebranded as airasia Grocer.
 - **HiHome**: Created a real estate management and buying platform.
 
