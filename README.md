@@ -1,76 +1,107 @@
-# Mohamad Norazlan Yasin
-
-_Android Developer based in Malaysia 🇲🇾_ 
-
-[Email](mailto:mohdnorazlan.yasin@gmail.com) / [LinkedIn](https://www.linkedin.com/in/norazlan-dev/) / [GitHub](https://github.com/norazlan-dev/)
-
----
-
-## 👋 About Me
-I am an **Android Developer** with over 4 years of experience, skilled in **Kotlin** and **Java**, specializing in building efficient, user-friendly mobile applications. With a strong passion for innovation and a collaborative mindset, I thrive in team environments where open communication and dynamic problem-solving are essential.
+**Mohamad Norazlan Yasin**  
+*Android Developer*  
+Based in Malaysia 🇲🇾  
+[Email](mailto:mohdnorazlan.yasin@gmail.com) | [LinkedIn](https://www.linkedin.com/in/norazlan-dev/) | [GitHub](https://github.com/norazlan-dev/)
 
 ---
 
-## 💼 Work Experience
+### 👋 **About Me**  
+I am an Android Developer with over 4 years of experience specializing in Kotlin and Java. My expertise lies in designing and building efficient, user-friendly mobile applications. I am passionate about delivering innovative solutions and thrive in collaborative, team-based environments. My work emphasizes the importance of seamless user experiences, optimized app performance, and secure data handling, particularly in enterprise environments.
 
-### Android Developer @ [Sapura Secured Technologies](https://www.sapuratech.com.my/)  
-_Dec 2023 – Present_  
-I am leading the development of the **New Valuation Information System (NVIS)**, designed to replace the legacy **Valuation Information System (VIS)** in partnership with Sapura for **JPPH** (Malaysian Department of Valuation and Property Services). NVIS streamlines property valuations for JPPH officers, integrating offline capabilities through **Room** and **Hilt**, and utilizing **IBM MobileFirst** for secure LDAP authentication and API management.
-
-- **Key Responsibilities**:
-  - Developing features for NVIS that enable JPPH officers to conduct site visits more efficiently.
-  - Implementing offline data handling using Room, ensuring uninterrupted use in low-connectivity environments.
-  - Ensuring seamless integration with backend services through IBM MobileFirst.
-
-- **Tech Stack**: Android Studio, Java, Room, Hilt, Springboot, IBM MobileFirst, REST API, Postman, GIT.
+I have successfully led the development of mission-critical mobile applications in industries ranging from property valuation to fleet management. My experience also extends to web development, where I contributed to dynamic client-driven projects. With a strong foundation in mobile development and cross-functional collaboration, I continuously seek new challenges and opportunities for growth.
 
 ---
 
-### Android Developer @ [Wahdah Technologies](https://www.wahdah.my/en/)  
-_Aug 2021 – Dec 2023_  
-I was responsible for building and maintaining the **[DRIVE](https://play.google.com/store/apps/details?id=com.wahdah.drive)** application, a comprehensive fleet management tools for rental booking within the WAHDAH platform. DRIVE functions as a SuperApp, simplifying rental processes for Wahdah Partners while enhancing fleet management operations.
+### 💼 **Professional Experience**
 
-- **Key Responsibilities**:
-  - Leading development and feature updates for the DRIVE application on the Android platform.
-  - Ensuring performance optimization and managing releases via Google Play.
-  - Working closely with cross-functional teams to implement new features based on customer feedback.
+**Android Developer**  
+*Sapura Secured Technologies*  
+*Dec 2023 – Present*  
 
-- **Tech Stack**: Android Studio, Kotlin, Firebase, REST API, Postman, Retrofit, GIT.
+- Mobile developer of the **New Valuation Information System (NVIS)**, a project replacing the legacy Valuation Information System (VIS), in partnership with Sapura for **JPPH (Malaysian Department of Valuation and Property Services)**.
+- Designed and developed the NVIS app for JPPH officers to conduct site visits and perform property valuations efficiently, integrating both online and offline capabilities.
+- Implemented offline data storage solutions using **Room Database**, enabling uninterrupted use in low-connectivity environments.
+- Integrated secure LDAP authentication and API management using **IBM MobileFirst**, ensuring compliance with enterprise security standards.
+- Collaborated with backend teams utilizing **Springboot** and **REST API** for seamless data synchronization.
+- Managed project lifecycle, from requirement gathering to deployment, ensuring adherence to JPPH’s needs.
+- **Key Technologies**: Android Studio, Java, Room, Hilt, Springboot, IBM MobileFirst, REST API, Postman, GIT.
 
-**Notable Projects**:
-  - **QalbyApp**: An Islamic lifestyle application.
-  - **Hotel Zamburger**: A hotel booking app.
-  - **WAHDAH Associate Partner (Xamarin)**: A previous version of DRIVE tailored for WAHDAH’s partner network.
-
----
-
-### Web Developer @ [Wahdah Technologies](https://www.wahdah.my/en/)  
-_Feb 2020 – Aug 2021_  
-In this role, I utilized **CakePHP** to develop dynamic, client-driven web projects under WAHDAH Technologies' subsidiary, **AIST**. I collaborated with diverse stakeholders to build web solutions that addressed their unique needs.
-
-- **Key Projects**:
-  - **MySmartOH**: Online Occupational Health management software.
-  - **Zetpy**: A platform for managing multiple online stores.
-  - **OurFarm**: A marketplace platform, now rebranded as **airasia Grocer**.
-  - **HiHome**: A real estate management and buying platform.
-
-- **Tech Stack**: CakePHP, MySQL, JavaScript, HTML, CSS.
+**Key Accomplishments**:
+- Rolled out NVIS to JPPH field officers, improving the speed and accuracy of property evaluations.
+- Enhanced app performance and data reliability in low-connectivity settings by designing robust offline mechanisms.
 
 ---
 
-## 👨‍🎓 Education
+**Android Developer**  
+*Wahdah Technologies*  
+*Aug 2021 – Dec 2023*  
 
-**Bachelor of Computer Science (Hons)**<br>
-[UiTM Kampus Jasin](https://melaka.uitm.edu.my/index.php/en/kjm-campus) - Melaka, Malaysia _(March 2017 - July 2020)_ 
+- Led the development of the **DRIVE application**, a comprehensive fleet management and rental booking tool for WAHDAH’s platform.
+- Developed and maintained the Android app, focusing on fleet management, partner operations, and booking functionalities.
+- Worked closely with cross-functional teams, including designers, testers, and project managers, to ensure timely feature updates and bug fixes.
+- Optimized app performance, managed app releases, and monitored analytics to ensure high user satisfaction.
+- **Key Technologies**: Android Studio, Kotlin, Firebase, REST API, Retrofit, Postman, GIT.
 
-**Diploma in Computer Science**<br>
-[UiTM Kampus Jasin](https://melaka.uitm.edu.my/index.php/en/kjm-campus) - Melaka, Malaysia _(June 2015 - Feb 2017)_ 
+**Key Projects**:
+- **QalbyApp**: Contributed to the development of an Islamic lifestyle application, focusing on enhancing the user experience and app performance.
+- **Hotel Zamburger**: Created a user-friendly hotel booking app, collaborating with backend teams to ensure smooth integration with booking APIs.
+- **WAHDAH Associate Partner (Xamarin)**: Managed updates to the earlier version of the DRIVE app built on Xamarin, ensuring partner needs were met.
 
 ---
 
-## 💬 Languages
+**Web Developer**  
+*Wahdah Technologies*  
+*Feb 2020 – Aug 2021*  
 
-🇲🇾 **Malay**: Native <br>
-🇬🇧 **English**: B2
+- Developed dynamic web applications for various clients under WAHDAH Technologies' subsidiary, AIST, using **CakePHP**.
+- Designed, implemented, and maintained client-driven web projects that met stakeholder requirements.
+- Worked on a wide range of web-based solutions including e-commerce platforms, health management systems, and real estate portals.
+- **Key Technologies**: CakePHP, MySQL, JavaScript, HTML, CSS.
 
-[product-screenshot]: https://www.w3schools.com/images/img_certification_down_generic_300.png
+**Key Projects**:
+- **MySmartOH**: Developed an online occupational health management system.
+- **Zetpy**: Built a platform to help users manage multiple online stores.
+- **OurFarm**: Developed a marketplace for local farmers, later rebranded as airasia Grocer.
+- **HiHome**: Created a real estate management and buying platform.
+
+---
+
+### 👨‍🎓 **Education**
+
+**Bachelor of Computer Science (Hons)**  
+*UiTM Kampus Jasin - Melaka, Malaysia*  
+*March 2017 - July 2020*
+
+**Diploma in Computer Science**  
+*UiTM Kampus Jasin - Melaka, Malaysia*  
+*June 2015 - Feb 2017*
+
+---
+
+### 🏆 **Key Accomplishments**
+
+- Developed a **fleet management SuperApp (DRIVE)**, serving as a key tool for WAHDAH Partners.
+- Successfully deployed the **DRIVE** application to the **Google Play Store**, ensuring smooth updates and performance optimization for WAHDAH Partners.
+- Developed the **NVIS Site Visit** for JPPH, improving the efficiency of property valuations across Malaysia.
+- Successfully implement **offline functionality** in NVIS, enabling reliable app usage in areas with low network connectivity.
+- Collaborated on **MySmartOH**, a health management system now used across various sectors for occupational health monitoring.
+
+---
+
+### 💻 **Technical Skills**
+
+- **Programming Languages**: Kotlin, Java, JavaScript, PHP, C#.
+- **Mobile Development**: Android Studio, Room, Hilt, Retrofit, Firebase, IBM MobileFirst.
+- **Web Development**: CakePHP, HTML, CSS, JavaScript.
+- **Backend Technologies**: REST API, Postman, Springboot.
+- **Version Control**: GIT.
+- **Databases**: MySQL, Room Database.
+
+---
+
+### 💬 **Languages**
+
+- **Malay**: Native  
+- **English**: B2 (Upper Intermediate)
+
+---
