@@ -32,9 +32,9 @@ I have successfully led the development of mission-critical mobile applications 
 
 ---
 
-**Android Developer**  
+**Android/Web Developer**  
 *Wahdah Technologies*  
-*Aug 2021 – Dec 2023*  
+*Aug 2020 – Dec 2023*  
 
 - Led the development of the **DRIVE application**, a comprehensive fleet management and rental booking tool for WAHDAH’s platform.
 - Developed and maintained the Android app, focusing on fleet management, partner operations, and booking functionalities.
@@ -46,12 +46,14 @@ I have successfully led the development of mission-critical mobile applications 
 - **QalbyApp**: Contributed to the development of an Islamic lifestyle application, focusing on enhancing the user experience and app performance.
 - **Hotel Zamburger**: Created a user-friendly hotel booking app, collaborating with backend teams to ensure smooth integration with booking APIs.
 - **WAHDAH Associate Partner (Xamarin)**: Managed updates to the earlier version of the DRIVE app built on Xamarin, ensuring partner needs were met.
+- **MySmartOH**: Developed an online occupational health management system.
+- **Zetpy**: Built a platform to help users manage multiple online stores.
 
 ---
 
-**Web Developer**  
+**Internship**  
 *Wahdah Technologies*  
-*Feb 2020 – Aug 2021*  
+*Feb 2020 – Aug 2020*  
 
 - Developed dynamic web applications for various clients under WAHDAH Technologies' subsidiary, AIST, using **CakePHP**.
 - Designed, implemented, and maintained client-driven web projects that met stakeholder requirements.
@@ -59,8 +61,6 @@ I have successfully led the development of mission-critical mobile applications 
 - **Key Technologies**: CakePHP, MySQL, JavaScript, HTML, CSS.
 
 **Key Projects**:
-- **MySmartOH**: Developed an online occupational health management system.
-- **Zetpy**: Built a platform to help users manage multiple online stores.
 - **OurFarm**: Developed a marketplace for local farmers, later rebranded as airasia Grocer.
 - **HiHome**: Created a real estate management and buying platform.
 
