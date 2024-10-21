@@ -66,6 +66,8 @@ In this role, I utilized **CakePHP** to develop dynamic, client-driven web proje
 **Diploma in Computer Science**<br>
 [UiTM Kampus Jasin](https://melaka.uitm.edu.my/index.php/en/kjm-campus) - Melaka, Malaysia _(June 2015 - Feb 2017)_ 
 
+---
+
 ## 💬 Languages
 
 🇲🇾 **Malay**: Native <br>
