@@ -46,7 +46,7 @@ I was responsible for building and maintaining the **[DRIVE](https://play.google
 
 ---
 
-### Web Developer @ [Wahdah Technologies](https://www.wahdah.my/en/)  
+### Internship @ [Wahdah Technologies](https://www.wahdah.my/en/)  
 _Feb 2020 – Aug 2020_  
 In this role, I utilized **CakePHP** to develop dynamic, client-driven web projects under WAHDAH Technologies' subsidiary, **AIST**. I collaborated with diverse stakeholders to build web solutions that addressed their unique needs.
 
